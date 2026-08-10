@@ -39,14 +39,14 @@ A Foundation define a identidade e o funcionamento do projeto.
 
 Ela estabelece os princípios, objetivos, metodologia e padrões utilizados por toda a documentação.
 
-Os documentos da Foundation são:
+Os documentos atuais da Foundation são:
 
-- README
-- VISION
-- PHILOSOPHY
-- METHODOLOGY
-- TERMINOLOGY
-- GLOSSARY
+- [VISION](foundation/VISION.md)
+- [PHILOSOPHY](foundation/PHILOSOPHY.md)
+- [METHODOLOGY](foundation/METHODOLOGY.md)
+- [TERMINOLOGY](foundation/TERMINOLOGY.md)
+- [GLOSSARY](foundation/GLOSSARY.md)
+- [SOURCES](foundation/SOURCES.md)
 - ROADMAP
 - QUESTIONS
 
