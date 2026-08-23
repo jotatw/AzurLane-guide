@@ -39,7 +39,7 @@ A Foundation define a identidade e o funcionamento do projeto.
 
 Ela estabelece os princípios, objetivos, metodologia e padrões utilizados por toda a documentação.
 
-Os documentos atuais da Foundation são:
+Documentos principais:
 
 - [VISION](foundation/VISION.md)
 - [PHILOSOPHY](foundation/PHILOSOPHY.md)
@@ -47,8 +47,16 @@ Os documentos atuais da Foundation são:
 - [TERMINOLOGY](foundation/TERMINOLOGY.md)
 - [GLOSSARY](foundation/GLOSSARY.md)
 - [SOURCES](foundation/SOURCES.md)
-- ROADMAP
-- QUESTIONS
+- [ROADMAP](foundation/ROADMAP.md)
+- [QUESTIONS](foundation/QUESTIONS.md)
+
+## Game Systems
+
+A documentação de sistemas está sendo construída gradualmente, começando pelos conceitos mais estáveis.
+
+- [Game Systems](docs/game-systems/README.md)
+- [Research](docs/game-systems/RESEARCH.md)
+- [War Archives](docs/game-systems/WAR_ARCHIVES.md)
 
 ## Roadmap
 
@@ -66,11 +74,11 @@ Tools
 
 Cada etapa é construída sobre a anterior, priorizando estabilidade, simplicidade e crescimento sustentável.
 
-## Documentação
+## Princípio de crescimento
 
-Os documentos da Foundation aprofundam cada aspecto da organização do projeto.
+O projeto deve começar pequeno, consolidar o conhecimento existente e expandir somente quando houver necessidade real.
 
-Todo o conteúdo produzido posteriormente seguirá os princípios e métodos definidos por essa documentação.
+Documentos de pesquisa, rascunhos e informações ainda não validadas não devem ser tratados como conhecimento definitivo.
 
 ## Licença
 
