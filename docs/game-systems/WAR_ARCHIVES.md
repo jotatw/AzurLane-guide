@@ -1,176 +1,177 @@
 # War Archives
 
-War Archives provides access to archived event content. It should be approached as a catalogue of specific opportunities rather than content that must automatically be completed in full.
+War Archives disponibiliza conteúdo de eventos antigos. Para este projeto, ele deve ser tratado como um catálogo de oportunidades específicas, e não como conteúdo que precisa ser completado integralmente.
 
-## Core principle
+## Princípio central
 
-Access to archived content does not mean that every archive should be farmed.
+Ter acesso a um Archive não significa que ele deva ser farmado.
 
-The practical flow is:
+O fluxo prático é:
 
 ```text
-Archive available
+Archive disponível
         ↓
-What does it provide?
+O que ele oferece?
         ↓
-Does the account need any of it?
+A conta precisa de alguma dessas recompensas?
         ↓
-Is there an easier or better alternative?
+Existe uma alternativa mais fácil ou melhor?
         ↓
-Define a specific objective
+Definir um objetivo específico
         ↓
-Farm only what is necessary
+Farmar apenas o necessário
 ```
 
-The objective may be a ship, equipment, Fleet Technology contribution or another specific reward.
+O objetivo pode ser um navio, equipamento, contribuição para Fleet Technology ou outra recompensa específica.
 
-## Farming by objective
+## Farming por objetivo
 
-War Archives should not initially be treated as general-purpose farming. Each investment should answer a concrete need.
+War Archives não deve ser tratado inicialmente como farming geral. Cada investimento deve responder a uma necessidade concreta.
 
-Possible objectives include:
+Possíveis objetivos incluem:
 
-- obtaining a specific ship;
-- obtaining a ship for Fleet Technology;
-- obtaining a prerequisite relevant to another system;
-- farming a specific piece of equipment;
-- obtaining a niche solution for a particular mechanic.
+- obter um navio específico;
+- obter um navio para Fleet Technology;
+- obter um requisito relevante para outro sistema;
+- farmar um equipamento específico;
+- obter uma solução de nicho para determinada mecânica.
 
-The key question is:
+A pergunta principal é:
 
-> What does this Archive provide that is useful enough to justify the time and limited access spent here?
+> O que este Archive oferece que é útil o suficiente para justificar o tempo e o acesso limitado gasto nele?
 
-## Priority categories
+## Categorias de prioridade
 
-### A — Farm actively
+### A — Farmar ativamente
 
-Rewards that are useful, difficult to replace and likely to retain long-term value.
+Recompensas úteis, difíceis de substituir e com valor que tende a permanecer no longo prazo.
 
-### B — Farm for a specific objective
+### B — Farmar por objetivo
 
-Not required by every account, but valuable when connected to a concrete goal such as Fleet Technology, a particular ship or a specific equipment need.
+Não são necessárias para todas as contas, mas são valiosas quando ligadas a um objetivo concreto, como Fleet Technology, um determinado navio ou uma necessidade específica de equipamento.
 
-### C — Obtain once
+### C — Obter uma vez
 
-Worth acquiring, but without a reason to continue spending access on repeated farming after the objective is complete.
+Vale a pena adquirir, mas não existe motivo para continuar gastando acesso depois que o objetivo foi concluído.
 
-### D — Optional
+### D — Opcional
 
-Collection, personal preference or rewards with acceptable but easily replaceable value.
+Coleção, preferência pessoal ou recompensas com utilidade aceitável, mas facilmente substituíveis.
 
-### E — Ignore for now
+### E — Ignorar por enquanto
 
-No current reason to spend time or limited access. This does not mean the content is permanently worthless; priorities can change later.
+Não existe motivo atual para gastar tempo ou acesso limitado. Isso não significa que o conteúdo seja permanentemente inútil; a prioridade pode mudar conforme a conta evolui.
 
-## Ships and equipment are evaluated differently
+## Navios e equipamentos são avaliados de forma diferente
 
-### Ships
+### Navios
 
-Possible reasons to obtain a ship include:
+Possíveis motivos para obter um navio:
 
-- combat value;
+- valor de combate;
 - Fleet Technology;
-- Research-related requirements;
-- class or faction coverage;
-- collection or personal preference.
+- requisitos relacionados a Research;
+- cobertura de classe ou facção;
+- coleção ou preferência pessoal.
 
-A ship does not need to be a major combat investment to have another useful purpose.
+Um navio não precisa ser uma grande opção de combate para possuir outro tipo de valor para a conta.
 
-### Equipment
+### Equipamentos
 
-Equipment should be evaluated according to:
+Equipamentos devem ser avaliados considerando:
 
-- performance;
-- mechanics and niche interactions;
-- who can use it effectively;
-- accessibility;
-- investment required;
-- alternatives from other sources.
+- desempenho;
+- mecânicas e interações de nicho;
+- quais navios se beneficiam deles;
+- acessibilidade;
+- investimento necessário;
+- alternativas disponíveis em outras fontes.
 
-A theoretically stronger item may be a worse immediate recommendation if it requires much more time than a sufficient alternative already available elsewhere.
+Um equipamento teoricamente superior pode ser uma recomendação pior no curto prazo se exigir muito mais tempo do que uma alternativa suficiente já disponível.
 
-## Best versus sufficient
+## Melhor versus suficiente
 
-War Archives is an important example of the difference between maximum performance and practical availability.
-
-```text
-Best option
-= highest known performance
-
-Sufficient option
-= solves the current problem with lower or more accessible investment
-```
-
-For a progressing account, a sufficient option available now can be more valuable than waiting for a marginally stronger long-term option.
-
-## Completing a map versus farming a map
-
-These are separate objectives.
+War Archives é um exemplo importante da diferença entre desempenho máximo e disponibilidade prática.
 
 ```text
-Completing
-→ check clear requirements
-→ check unique rewards
-→ check 3-star conditions when relevant
+Melhor opção
+= maior desempenho conhecido
+
+Opção suficiente
+= resolve o problema atual com menor
+  ou mais acessível investimento
+```
+
+Para uma conta em progressão, uma solução suficiente disponível agora pode ser mais valiosa do que esperar por uma opção marginalmente superior.
+
+## Completar um mapa versus farmar um mapa
+
+São objetivos diferentes.
+
+```text
+Completar
+→ verificar condições de clear
+→ verificar recompensas únicas
+→ verificar condições de 3★ quando relevantes
 ```
 
 ```text
-Farming
-→ define the target reward
-→ identify the correct stage
-→ repeat the actions necessary for that target
-→ avoid unnecessary actions that do not improve the farming objective
+Farmar
+→ definir a recompensa desejada
+→ identificar o estágio correto
+→ repetir as ações necessárias para o objetivo
+→ evitar ações extras que não melhoram o resultado desejado
 ```
 
-Before assuming that 3 stars are required, the guide should distinguish between any one-time completion benefit and repeated farming efficiency.
+Antes de assumir que 3 estrelas são necessárias, devemos separar qualquer benefício único de conclusão da eficiência das repetições posteriores.
 
-The fact that a map can be completed with all stars does not by itself mean that every later farming run should repeat every action required for that completion.
+Uma condição de 3 estrelas pode ser importante para a conclusão inicial ou para uma recompensa específica, mas isso não significa que cada execução posterior de farming deva repetir todas as ações necessárias para obtê-la.
 
-## Source awareness
+## Fonte de obtenção
 
-Equipment and ships should not be documented only by their final strength. The guide should also record where they come from.
+Navios e equipamentos não devem ser documentados apenas por seu desempenho final. A origem também faz parte do conhecimento.
 
 ```text
 Item
-├── What does it do?
-├── Who benefits from it?
-├── When is it useful?
-├── Alternatives
-└── How is it obtained?
-    ├── Source
-    ├── Requirements
-    ├── Time
-    ├── Limited access
-    └── Farming difficulty
+├── O que faz?
+├── Quem se beneficia?
+├── Quando é útil?
+├── Alternativas
+└── Como obter?
+    ├── Fonte
+    ├── Requisitos
+    ├── Tempo
+    ├── Acesso limitado
+    └── Dificuldade de farming
 ```
 
-This allows the guide to compare options across War Archives, Campaign, Research, Gear Lab, events and other sources.
+Isso permite comparar opções de War Archives, Campaign, Research, Gear Lab, eventos e outras fontes.
 
-## Decision model
+## Modelo de decisão
 
 ```text
-Reward identified
+Recompensa identificada
         ↓
-Is it useful to the account?
+É útil para a conta?
         ↓
-Is there an equivalent or better alternative?
+Existe alternativa equivalente ou melhor?
         ↓
-Which option is more accessible now?
+Qual opção é mais acessível agora?
         ↓
-Does the Archive reward justify the access and time?
+A recompensa justifica o tempo e o acesso?
         ↓
-Farm now / save for later / ignore for now
+Farmar agora / deixar para depois / ignorar por enquanto
 ```
 
-## Pending expansion
+## Expansão futura
 
-This document defines the framework. Detailed research is still required for each available Archive, including:
+Este documento define a estrutura. A pesquisa detalhada ainda deverá identificar, Archive por Archive:
 
-- specific ships worth obtaining;
-- specific equipment worth farming;
-- recommended stages for each target;
-- Fleet Technology value;
-- alternatives from other sources;
-- account-stage priorities.
+- navios que realmente valem a pena obter;
+- equipamentos que realmente valem farming;
+- estágios recomendados para cada objetivo;
+- valor para Fleet Technology;
+- alternativas disponíveis em outras fontes;
+- prioridades conforme o estágio da conta.
 
-The final goal is a practical catalogue that answers not only what an Archive contains, but whether it is worth farming for a particular account objective.
+O objetivo final é produzir um catálogo que responda não apenas o que cada Archive contém, mas se vale a pena farmá-lo para determinado objetivo da conta.
