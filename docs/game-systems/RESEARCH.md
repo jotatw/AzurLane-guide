@@ -1,187 +1,187 @@
 # Research
 
-Research is a long-term progression system. Its main characteristic is that important results are obtained through accumulated progress rather than immediate completion.
+Research é um sistema de progressão de longo prazo. Sua principal característica é que resultados importantes são obtidos por meio de progresso acumulado, e não apenas por uma conclusão imediata.
 
-## Core idea
+## Ideia central
 
-A practical model for Research is:
+Um modelo prático para Research é:
 
 ```text
-Discover the system
+Descobrir o sistema
         ↓
-Understand its purpose
+Entender sua função
         ↓
-Start the appropriate progress
+Iniciar o progresso adequado
         ↓
-Continue progressing elsewhere
+Continuar progredindo em outros conteúdos
         ↓
-Accumulate results over time
+Acumular resultados ao longo do tempo
 ```
 
-This makes Research an example of **investment that should often begin before the final reward is needed**.
+Isso torna Research um exemplo de **investimento que pode precisar começar antes de a recompensa final ser necessária**.
 
-## Two main progress paths
+## Dois caminhos principais
 
 ### Research Academy
 
-Projects are selected, completed over time and provide rewards that contribute to long-term development.
+Projetos são selecionados, concluídos ao longo do tempo e fornecem recompensas que contribuem para o desenvolvimento da conta.
 
-The important decision is not simply which project has the largest visible reward. Projects should be evaluated according to:
+A decisão não deve considerar apenas qual projeto possui a maior recompensa visível. Os projetos devem ser avaliados de acordo com:
 
-- current objective;
-- reward relevance;
-- duration;
-- resource cost;
-- opportunity cost;
-- future value.
+- objetivo atual;
+- relevância da recompensa;
+- duração;
+- custo de recursos;
+- custo de oportunidade;
+- valor futuro.
 
-A useful decision order is:
+Uma ordem de decisão útil é:
 
 ```text
-What does the project provide?
+O que o projeto fornece?
         ↓
-Does it advance an important objective?
+Ele avança um objetivo importante?
         ↓
-Will that objective matter soon?
+Esse objetivo será relevante em breve?
         ↓
-What does it cost?
+O que o projeto custa?
         ↓
-How long does it occupy the slot?
+Quanto tempo ocupa?
         ↓
-Is there a better option now?
+Existe uma opção melhor agora?
         ↓
-Choose
+Escolher
 ```
 
-There should not be a universal rule such as “always choose the rarest project”. The value of a project depends on what the account is currently trying to develop.
+Não deve existir uma regra universal como “sempre escolha o projeto mais raro”. O valor de um projeto depende do que a conta está tentando desenvolver naquele momento.
 
 ### Research Ships
 
-Research Ships represent a separate long-term investment cycle:
+Research Ships representam outro ciclo de investimento de longo prazo:
 
 ```text
-Prerequisites
+Pré-requisitos
         ↓
-Ship development tasks
+Tarefas de desenvolvimento
         ↓
-Obtain the ship
+Obter o navio
         ↓
-Accumulate blueprints
+Acumular blueprints
         ↓
-Further development
+Desenvolvimento adicional
         ↓
-Reach the intended level of maturity
+Alcançar o estágio desejado
 ```
 
-Obtaining the ship is therefore not the same as completing the investment.
+Obter o navio, portanto, não é o mesmo que concluir o investimento.
 
-## Two different timelines
+## Duas linhas de tempo
 
-Research Ships can be understood through two major timelines.
+Research Ships podem ser entendidos por meio de duas etapas principais.
 
-### Timeline 1 — Obtaining the ship
+### Linha 1 — Obter o navio
 
-The account must satisfy the relevant prerequisites and complete the development requirements.
+A conta precisa cumprir os pré-requisitos aplicáveis e concluir os requisitos de desenvolvimento.
 
-### Timeline 2 — Developing the ship
+### Linha 2 — Desenvolver o navio
 
-After obtaining the ship, additional accumulated resources such as blueprints determine how quickly it reaches its intended strength.
+Depois de obter o navio, recursos acumulados, como blueprints, determinam quanto tempo e investimento serão necessários para alcançar o desenvolvimento desejado.
 
-For this reason, future ship evaluations should consider both the final result and the path required to reach it.
+Por isso, futuras avaliações de Research Ships devem considerar tanto o resultado final quanto o caminho necessário para chegar até ele.
 
-## Theoretical strength and available strength
+## Força teórica e força disponível
 
-A Research Ship may have very high maximum potential while still providing little immediate value to an account that cannot yet develop it sufficiently.
+Um Research Ship pode possuir um potencial máximo muito alto e, ainda assim, fornecer pouco valor imediato para uma conta que ainda não consegue desenvolvê-lo adequadamente.
 
 ```text
-Theoretical strength
-= maximum potential
+Força teórica
+= potencial máximo
 
-Available strength
-= what the account can actually use now
+Força disponível
+= aquilo que a conta consegue utilizar agora
 ```
 
-This distinction is important when comparing a powerful long-term project with an alternative that is already usable.
+Essa diferença é importante ao comparar um projeto poderoso de longo prazo com uma alternativa que já pode ser utilizada.
 
-The best final option is not automatically the best current investment.
+A melhor opção final não é automaticamente o melhor investimento atual.
 
-## Time as a resource
+## Tempo como recurso
 
-Research reinforces a central progression principle: time is itself a resource.
+Research reforça um princípio central da progressão: **tempo também é um recurso**.
 
-Some systems can be delayed until a problem appears. Others require accumulated progress and may take a long time to mature. Waiting until the reward is urgently needed can therefore delay the account significantly.
+Alguns sistemas podem esperar até que um problema apareça. Outros dependem de progresso acumulado e podem levar bastante tempo para amadurecer. Esperar até que a recompensa seja necessária pode atrasar a conta.
 
-This creates two different investment models:
+Existem, portanto, dois modelos de investimento:
 
 ```text
-Reactive investment
-Problem appears
+Investimento reativo
+Problema aparece
         ↓
-Invest
+Investir
 ```
 
 ```text
-Anticipatory investment
-Future objective is known
+Investimento antecipado
+Objetivo futuro é conhecido
         ↓
-Start accumulation early
+Começar a acumular cedo
         ↓
-Continue normal progression
+Continuar a progressão normal
         ↓
-Use the result later
+Usar o resultado depois
 ```
 
-Research belongs strongly to the second model.
+Research pertence principalmente ao segundo modelo.
 
-## Project priority model
+## Modelo de prioridade dos projetos
 
-Projects should be classified by purpose rather than by rarity alone.
+Os projetos devem ser classificados pelo objetivo, e não apenas pela raridade.
 
-| Priority | Meaning |
+| Prioridade | Significado |
 |---|---|
-| Current priority | Directly advances an active objective |
-| Good investment | Useful without being urgent |
-| Long-term | Accumulates future value |
-| Situational | Depends on current resources or goals |
-| Low priority | Provides little value to the account now |
+| Prioridade atual | Avança diretamente um objetivo ativo |
+| Bom investimento | É útil, mas não é urgente |
+| Longo prazo | Acumula valor para o futuro |
+| Situacional | Depende dos recursos ou objetivos atuais |
+| Baixa prioridade | Tem pouco valor para a conta neste momento |
 
-The same project can move between categories as the account changes.
+A mesma opção pode mudar de categoria conforme a conta evolui.
 
-## Maturity of an investment
+## Maturidade do investimento
 
-Research and other long-term systems can be described through a common maturity model:
+Research e outros sistemas de longo prazo podem utilizar um modelo comum de maturidade:
 
 ```text
-Not started
+Não iniciado
     ↓
-In progress
+Em progresso
     ↓
-Usable
+Utilizável
     ↓
-Developed
+Desenvolvido
     ↓
-Complete
+Completo
 ```
 
-This helps distinguish an unfinished investment from an immediately usable result.
+Isso ajuda a distinguir um investimento ainda incompleto de um resultado que já pode ser utilizado.
 
-## Decision principle
+## Princípio de decisão
 
-The central question is not:
+A pergunta não deve ser:
 
-> Which choice is universally best?
+> Qual escolha é universalmente melhor?
 
-It is:
+A pergunta deve ser:
 
-> Which choice produces the most useful progress for the current objective without unnecessarily harming other resources or priorities?
+> Qual escolha produz o progresso mais útil para o objetivo atual sem consumir recursos ou oportunidades de forma desnecessária?
 
-## Pending expansion
+## Expansão futura
 
-This document establishes the conceptual framework. Detailed priorities still require separate research and verification for:
+Este documento estabelece a estrutura conceitual. Ainda serão pesquisados e validados separadamente:
 
-- individual project types;
+- tipos de projetos;
 - Research Focus;
-- individual Research Ship series;
-- development breakpoints;
-- catch-up systems;
-- ship-specific priorities.
+- séries individuais de Research Ships;
+- pontos de desenvolvimento relevantes;
+- sistemas de catch-up;
+- prioridades específicas de navios e projetos.
